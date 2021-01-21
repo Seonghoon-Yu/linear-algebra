@@ -4,8 +4,8 @@
 # 교재
 David C Ray, Linear Algebra and its aplication
 
+![image1](https://user-images.githubusercontent.com/75726938/105344846-d3642380-5c26-11eb-8cca-30c8a328cf7d.JPG)
 
-![캡처1](https://user-images.githubusercontent.com/75726938/105344333-225d8900-5c26-11eb-98ad-d73cde772242.JPG)
 
 ---
 
