@@ -9,5 +9,5 @@ David C Ray, Linear Algebra and its aplication
 
 ---
 
-### ch.1 Linear Equations in Linear Algevra
+### ch.1 Linear Equations in Linear Algebra
 [1.1 Systems of Linear Equations](https://deep-learning-study.tistory.com/294)
