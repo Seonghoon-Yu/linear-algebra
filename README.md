@@ -11,3 +11,4 @@ David C Ray, Linear Algebra and its aplication
 
 ### ch.1 Linear Equations in Linear Algebra
 [1.1 Systems of Linear Equations](https://deep-learning-study.tistory.com/294)
+[1.2 Row reduction and Echelon forms](https://deep-learning-study.tistory.com/295)
