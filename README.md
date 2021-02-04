@@ -23,3 +23,5 @@ David C Ray, Linear Algebra and its aplication
 [1.6 선형 독립과 선형 종속 - Linear Independence and linear dependence](https://deep-learning-study.tistory.com/301)
 
 [1.7 선형 변환 개요 - Introduction to Linear Transformation](https://deep-learning-study.tistory.com/302)
+
+[1.8 선형 변환 행렬 - The Matrix of Linear Transformation](https://deep-learning-study.tistory.com/303)
